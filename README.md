@@ -14,8 +14,6 @@ Impact of remote jobs on employees mental health
 - [Project Task](#project-task)
 - [Data Sourcing](#data-sourcing)
 - [Preparation Tools](#preparation-tools)
-- [Data Processing](#data-processing)
-- [Skills Demonstrated](#skills-demonstrated)
 - [Insights](#insights)
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
@@ -67,7 +65,7 @@ Power BI was used to leverage this task both analysis and visualizations
 
 ----
 
-##  Dashboard Preview
+##  Dashboard 
 <img width="1528" height="853" alt="image" src="https://github.com/user-attachments/assets/f673e314-a4de-42bf-9207-e56ca48e6a41" />
 
 <img width="1528" height="847" alt="image" src="https://github.com/user-attachments/assets/6e2f511d-1d2a-45c0-a036-7a5b5811b830" />
