@@ -50,7 +50,7 @@ Power BI was used to leverage this task both analysis and visualizations
 
 
 * **Meeting Fatigue:** Stress levels spike significantly after a threshold of 10 virtual meetings per week.
-<img width="547" height="258" alt="image" src="https://github.com/user-attachments/assets/f9306044-e70c-454a-837e-4eb1f5639428" />
+<img width="480" height="228" alt="image" src="https://github.com/user-attachments/assets/54995a39-dc96-4618-b712-7f9510d16dc2" />
 
 * **Support Gap:** Despite access to mental health resources, high-stress roles (e.g., Sales, Data Science) show lower satisfaction levels, indicating a need for targeted intervention.
 <img width="552" height="351" alt="image" src="https://github.com/user-attachments/assets/58999901-7508-4048-8199-5e6919e464df" />
@@ -70,7 +70,8 @@ Power BI was used to leverage this task both analysis and visualizations
 
 ----
 
-<img width="1528" height="847" alt="image" src="https://github.com/user-attachments/assets/6e2f511d-1d2a-45c0-a036-7a5b5811b830" />
+<img width="1529" height="862" alt="image" src="https://github.com/user-attachments/assets/dbe7e254-46d7-467c-9f0b-bf2b28c9d548" />
+
 
 ## Conclusion
 Productivity Change vs. Sleep Quality table, point out that even "High Performers" (those with increased productivity) are showing "Poor" sleep patterns
